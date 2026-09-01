@@ -1,0 +1,58 @@
+about:
+  description: Playwright MCP server
+  license: Apache-2.0
+  homepage: https://www.npmjs.com/package/@playwright/mcp
+  head: 4c1fb03
+  archived: false
+  latestVersion: v0.0.80
+  collectedAt: 2026-09-01T04:56:57Z
+timeline:
+  created: 2025-03-21
+  lastCommit: 2026-09-01
+  lastRelease: 2026-09-01
+popularity:
+  star: 36679
+  watcher: 149
+  fork: 3079
+  release: 70
+  contributor: 69
+  pullRequest: 268
+  issue: 882
+language:
+  TypeScript: 23513
+  JavaScript: 12237
+  Dockerfile: 2220
+totalLine: 37970
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 6
+    openIssue: 2
+    commit: 7
+  last90d:
+    since: 2026-06-03
+    release: 5
+    mergedPR: 26
+    openPR: 0
+    closedIssue: 28
+    openIssue: 3
+    commit: 26
+  last180d:
+    since: 2026-03-05
+    release: 12
+    mergedPR: 85
+    openPR: 0
+    closedIssue: 122
+    openIssue: 3
+    commit: 88
+  last360d:
+    since: 2025-09-06
+    release: 42
+    mergedPR: 200
+    openPR: 0
+    closedIssue: 386
+    openIssue: 3
+    commit: 206
