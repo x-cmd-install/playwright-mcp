@@ -7,13 +7,13 @@ about:
   head: 8a13ef8
   archived: false
   latestVersion: v0.0.80
-  collectedAt: 2026-09-04T19:28:52Z
+  collectedAt: 2026-09-04T21:08:39Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-09-03
   lastRelease: 2026-09-01
 popularity:
-  star: 36799
+  star: 36801
   watcher: 149
   fork: 3095
   release: 70
@@ -82,5 +82,38 @@ total:
   openIssue: 1
   commit: 579
 ---
+path: /home/runner/.x-repo/github.com/microsoft/playwright-mcp
+collectedAt: 2026-09-04T21:08:40Z
+loc:
+  Json:
+    code: 1373
+    comments: 0
+    blanks: 0
+    files: 3
+  TypeScript:
+    code: 591
+    comments: 289
+    blanks: 115
+    files: 10
+  JavaScript:
+    code: 233
+    comments: 83
+    blanks: 35
+    files: 4
+  Dockerfile:
+    code: 28
+    comments: 23
+    blanks: 16
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1087
+    blanks: 407
+    files: 5
+total:
+  code: 2400
+  comments: 1630
+  blanks: 608
+  files: 23
 ---
 
