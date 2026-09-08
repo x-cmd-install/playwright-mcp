@@ -5,19 +5,19 @@ about:
   head: 8a13ef8
   archived: false
   latestVersion: "v0.0.80"
-  collectedAt: 2026-09-08T02:05:46Z
+  collectedAt: 2026-09-08T05:09:14Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-09-03
   lastRelease: 2026-09-01
 popularity:
-  star: 36875
+  star: 36881
   watcher: 150
-  fork: 3115
+  fork: 3116
   release: 70
   contributor: 66
   pullRequest: 821
-  issue: 884
+  issue: 885
 language:
   TypeScript: 23513
   JavaScript: 12237
@@ -30,7 +30,7 @@ recent:
     mergedPR: 7
     openPR: 6
     closedIssue: 7
-    openIssue: 1
+    openIssue: 2
     commit: 7
   last60d:
     since: 2026-07-10
@@ -38,7 +38,7 @@ recent:
     mergedPR: 14
     openPR: 6
     closedIssue: 18
-    openIssue: 1
+    openIssue: 2
     commit: 15
   last90d:
     since: 2026-06-10
@@ -46,7 +46,7 @@ recent:
     mergedPR: 24
     openPR: 6
     closedIssue: 28
-    openIssue: 2
+    openIssue: 3
     commit: 24
   last180d:
     since: 2026-03-12
@@ -54,7 +54,7 @@ recent:
     mergedPR: 85
     openPR: 6
     closedIssue: 116
-    openIssue: 2
+    openIssue: 3
     commit: 83
   last360d:
     since: 2025-09-13
@@ -62,7 +62,7 @@ recent:
     mergedPR: 196
     openPR: 6
     closedIssue: 371
-    openIssue: 2
+    openIssue: 3
     commit: 203
   last720d:
     since: 2024-09-18
@@ -70,18 +70,18 @@ recent:
     mergedPR: 546
     openPR: 6
     closedIssue: 882
-    openIssue: 2
+    openIssue: 3
     commit: 579
 total:
   release: 70
   mergedPR: 547
   openPR: 6
   closedIssue: 882
-  openIssue: 2
+  openIssue: 3
   commit: 579
 ---
 path: /home/runner/.x-repo/github.com/microsoft/playwright-mcp
-collectedAt: 2026-09-08T02:05:48Z
+collectedAt: 2026-09-08T05:09:16Z
 loc:
   Json:
     code: 1373
