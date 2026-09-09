@@ -7,7 +7,7 @@ Playwright MCP server
 - **Latest release**: `v0.0.80` (2026-09-01)
 - **Last commit**: 2026-09-03
 - **License**: Apache-2.0
-- **Stars**: 36908 · **Forks**: 3121 · **Open issues**: 886 · **Contributors**: 66
+- **Stars**: 36920 · **Forks**: 3122 · **Open issues**: 886 · **Contributors**: 66
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/playwright-mcp> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:10:37Z._
+_Last regenerated: 2026-09-09T19:15:23Z._
