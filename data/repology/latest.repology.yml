@@ -1,0 +1,52 @@
+- repo: aur
+  srcname: playwright-mcp
+  binname: playwright-mcp
+  visiblename: playwright-mcp
+  version: 0.0.80
+  origversion: 0.0.80-1
+  status: newest
+  summary: MCP server that provides browser automation capabilities using Playwright
+  maintainers:
+    - lapsus@aur
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: playwright-mcp
+  visiblename: playwright-mcp
+  version: 0.0.80
+  origversion: null
+  status: newest
+  summary: MCP server for Playwright
+- repo: nix_stable_25_11
+  srcname: playwright-mcp
+  visiblename: playwright-mcp
+  version: 0.0.41
+  origversion: null
+  status: outdated
+  summary: Playwright MCP server
+  maintainers:
+    - mail@kalekseev.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: playwright-mcp
+  visiblename: playwright-mcp
+  version: 0.0.69
+  origversion: null
+  status: outdated
+  summary: Playwright MCP server
+  maintainers:
+    - mail@kalekseev.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: playwright-mcp
+  visiblename: playwright-mcp
+  version: 0.0.76
+  origversion: null
+  status: outdated
+  summary: Playwright MCP server
+  maintainers:
+    - mail@kalekseev.com
+  licenses:
+    - Apache-2.0
