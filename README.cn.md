@@ -4,7 +4,7 @@
 
 Playwright MCP server
 
-![playwright-mcp](https://repo.x-cmd.io/playwright-mcp.svg)
+![playwright-mcp](https://repo.x-cmd.io/playwright-mcp.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install playwright-mcp
 
 - **最新版本**: `v0.0.80` (2026-09-01)
 - **最近提交**: 2026-09-03
-- **发布时间**: 2026-09-01T03:24:23Z
 
 ## 流行度
 
-- **Star**: 36,942 · **Fork**: 3,125 · **开放 issue**: 886 · **贡献者**: 66
+- **Star**: 36,976 · **Fork**: 3,131 · **开放 issue**: 886 · **贡献者**: 66
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ playwright-mcp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:21:24Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:40Z._
