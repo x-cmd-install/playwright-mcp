@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.80"
   latestRelease: "v0.0.80"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:21:11Z
+  collectedAt: 2026-09-10T16:49:33Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-09-03
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-01
   lastPrerelease: 
 popularity:
-  star: 36942
+  star: 36976
   watcher: 151
-  fork: 3125
+  fork: 3131
   release: 70
   contributor: 66
   pullRequest: 823
@@ -85,7 +85,7 @@ total:
   commit: 579
 ---
 path: /home/runner/.x-repo/github.com/microsoft/playwright-mcp
-collectedAt: 2026-09-10T05:21:14Z
+collectedAt: 2026-09-10T16:49:35Z
 loc:
   Json:
     code: 1373
