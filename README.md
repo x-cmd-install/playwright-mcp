@@ -37,7 +37,7 @@ Total: **2,225** lines of code across **23** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 37,052 · **Forks**: 3,143 · **Open issues**: 888 · **Contributors**: 66
+- **Stars**: 37,072 · **Forks**: 3,146 · **Open issues**: 888 · **Contributors**: 66
 
 ## Totals (cumulative)
 
@@ -47,21 +47,12 @@ Total: **2,225** lines of code across **23** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 7 | 1 | 9 | 2 | 7 |
-| last60d | 2026-07-15 | 2 | 14 | 1 | 19 | 2 | 15 |
-| 90d | 2026-06-15 | 4 | 24 | 1 | 27 | 3 | 24 |
-| last180d | 2026-03-17 | 12 | 81 | 1 | 114 | 3 | 83 |
-| 360d | 2025-09-18 | 41 | 191 | 1 | 362 | 3 | 203 |
-| last720d | 2024-09-23 | 70 | 546 | 1 | 885 | 3 | 579 |
-
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/playwright-mcp). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.0.80` | ✅ latest |
-| Nix unstable | `0.0.76` | ⚠️ outdated |
+| 30d | 2026-08-15 | 1 | 7 | 1 | 9 | 2 | 6 |
+| last60d | 2026-07-16 | 2 | 14 | 1 | 18 | 2 | 14 |
+| 90d | 2026-06-16 | 4 | 24 | 1 | 26 | 3 | 24 |
+| last180d | 2026-03-18 | 12 | 80 | 1 | 114 | 3 | 81 |
+| 360d | 2025-09-19 | 40 | 188 | 1 | 357 | 3 | 193 |
+| last720d | 2024-09-24 | 70 | 546 | 1 | 885 | 3 | 579 |
 
 ## Improve this data
 
@@ -72,4 +63,4 @@ Install metadata for playwright-mcp lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:24:25Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:29:38Z._
