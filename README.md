@@ -14,11 +14,11 @@ x install playwright-mcp
 
 ## Code insight
 
-Total: **2,383** lines of code across **20** files in the top 5 languages.
+Total: **2,387** lines of code across **20** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 1,373 | 0 | 0 | 3 |
+| Json | 1,377 | 0 | 0 | 3 |
 | TypeScript | 595 | 304 | 118 | 10 |
 | JavaScript | 240 | 82 | 31 | 4 |
 | Sh | 138 | 19 | 21 | 2 |
@@ -37,22 +37,22 @@ Total: **2,383** lines of code across **20** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 37,916 · **Forks**: 3,222 · **Open issues**: 903 · **Contributors**: 65
+- **Stars**: 37,947 · **Forks**: 3,223 · **Open issues**: 905 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 564 · **Open PRs**: 2 · **Closed issues**: 902 · **Open issues**: 1 · **Commits**: 596
+- **Releases**: 73 · **Merged PRs**: 566 · **Open PRs**: 0 · **Closed issues**: 904 · **Open issues**: 1 · **Commits**: 598
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 3 | 17 | 2 | 18 | 1 | 17 |
-| last60d | 2026-08-09 | 4 | 24 | 2 | 26 | 1 | 24 |
-| 90d | 2026-07-10 | 5 | 31 | 2 | 37 | 1 | 32 |
-| last180d | 2026-04-11 | 13 | 79 | 2 | 97 | 1 | 79 |
-| 360d | 2025-10-13 | 39 | 189 | 2 | 327 | 1 | 200 |
-| last720d | 2024-10-18 | 73 | 563 | 2 | 902 | 1 | 596 |
+| 30d | 2026-09-09 | 3 | 19 | 0 | 19 | 1 | 19 |
+| last60d | 2026-08-10 | 4 | 26 | 0 | 28 | 1 | 26 |
+| 90d | 2026-07-11 | 5 | 33 | 0 | 39 | 1 | 34 |
+| last180d | 2026-04-12 | 13 | 81 | 0 | 98 | 1 | 81 |
+| 360d | 2025-10-14 | 39 | 191 | 0 | 326 | 1 | 202 |
+| last720d | 2024-10-19 | 73 | 565 | 0 | 904 | 1 | 598 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for playwright-mcp lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:26:55Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:28:42Z._
