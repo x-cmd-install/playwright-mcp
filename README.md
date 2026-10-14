@@ -37,7 +37,7 @@ Total: **2,387** lines of code across **20** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,081 · **Forks**: 3,243 · **Open issues**: 908 · **Contributors**: 65
+- **Stars**: 38,114 · **Forks**: 3,244 · **Open issues**: 908 · **Contributors**: 65
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **2,387** lines of code across **20** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 18 | 0 | 21 | 0 | 15 |
-| last60d | 2026-08-14 | 4 | 26 | 0 | 31 | 0 | 26 |
-| 90d | 2026-07-15 | 5 | 33 | 0 | 41 | 0 | 33 |
-| last180d | 2026-04-16 | 13 | 74 | 0 | 99 | 0 | 72 |
-| 360d | 2025-10-18 | 38 | 186 | 0 | 317 | 0 | 196 |
-| last720d | 2024-10-23 | 73 | 565 | 0 | 908 | 0 | 598 |
+| 30d | 2026-09-14 | 3 | 16 | 0 | 21 | 0 | 15 |
+| last60d | 2026-08-15 | 4 | 26 | 0 | 31 | 0 | 26 |
+| 90d | 2026-07-16 | 5 | 33 | 0 | 40 | 0 | 33 |
+| last180d | 2026-04-17 | 13 | 71 | 0 | 99 | 0 | 72 |
+| 360d | 2025-10-19 | 38 | 186 | 0 | 317 | 0 | 196 |
+| last720d | 2024-10-24 | 73 | 565 | 0 | 908 | 0 | 598 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for playwright-mcp lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:20:17Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:14:20Z._
