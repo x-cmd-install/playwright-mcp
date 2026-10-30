@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.83"
   latestRelease: "v0.0.83"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:15:12Z
+  collectedAt: 2026-10-30T06:19:10Z
 timeline:
   created: 2025-03-21
   lastCommit: 2026-10-22
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-28
   lastPrerelease: 
 popularity:
-  star: 38784
+  star: 38834
   watcher: 149
-  fork: 3341
+  fork: 3345
   release: 73
   contributor: 65
-  pullRequest: 851
+  pullRequest: 852
   issue: 919
 language:
   TypeScript: 23542
@@ -30,63 +30,63 @@ language:
 totalBytes: 45189
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 5
-    openPR: 0
-    closedIssue: 15
-    openIssue: 2
+    openPR: 1
+    closedIssue: 17
+    openIssue: 0
     commit: 5
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 4
-    mergedPR: 24
-    openPR: 0
-    closedIssue: 36
-    openIssue: 2
+    mergedPR: 22
+    openPR: 1
+    closedIssue: 38
+    openIssue: 0
     commit: 22
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 5
     mergedPR: 33
-    openPR: 0
-    closedIssue: 42
-    openIssue: 2
+    openPR: 1
+    closedIssue: 44
+    openIssue: 0
     commit: 35
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 10
     mergedPR: 60
-    openPR: 0
+    openPR: 1
     closedIssue: 88
-    openIssue: 2
+    openIssue: 0
     commit: 59
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 36
-    mergedPR: 182
-    openPR: 0
-    closedIssue: 306
-    openIssue: 2
+    mergedPR: 181
+    openPR: 1
+    closedIssue: 307
+    openIssue: 0
     commit: 192
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 73
     mergedPR: 567
-    openPR: 0
-    closedIssue: 917
-    openIssue: 2
+    openPR: 1
+    closedIssue: 919
+    openIssue: 0
     commit: 600
 total:
   release: 73
   mergedPR: 568
-  openPR: 0
-  closedIssue: 917
-  openIssue: 2
+  openPR: 1
+  closedIssue: 919
+  openIssue: 0
   commit: 600
 ---
 path: /home/runner/.x-repo/github.com/microsoft/playwright-mcp
-collectedAt: 2026-10-29T06:15:13Z
+collectedAt: 2026-10-30T06:19:13Z
 loc:
   Json:
     code: 1377
