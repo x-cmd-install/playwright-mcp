@@ -2,26 +2,26 @@ about:
   description: "Playwright MCP server"
   license: Apache-2.0
   homepage: https://www.npmjs.com/package/@playwright/mcp
-  head: 0c4107a
+  head: f680760
   archived: false
   latestVersion: "v0.0.83"
   latestRelease: "v0.0.83"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:19:10Z
+  collectedAt: 2026-10-31T06:06:33Z
 timeline:
   created: 2025-03-21
-  lastCommit: 2026-10-22
+  lastCommit: 2026-10-31
   lastVersion: 2026-09-28
   lastRelease: 2026-09-28
   lastPrerelease: 
 popularity:
-  star: 38834
-  watcher: 149
-  fork: 3345
+  star: 38881
+  watcher: 148
+  fork: 3347
   release: 73
   contributor: 65
-  pullRequest: 852
-  issue: 919
+  pullRequest: 858
+  issue: 920
 language:
   TypeScript: 23542
   JavaScript: 12303
@@ -30,73 +30,73 @@ language:
 totalBytes: 45189
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
-    mergedPR: 5
+    mergedPR: 11
     openPR: 1
-    closedIssue: 17
-    openIssue: 0
-    commit: 5
+    closedIssue: 16
+    openIssue: 1
+    commit: 11
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 4
-    mergedPR: 22
+    mergedPR: 28
     openPR: 1
-    closedIssue: 38
-    openIssue: 0
-    commit: 22
+    closedIssue: 37
+    openIssue: 1
+    commit: 28
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 5
-    mergedPR: 33
+    mergedPR: 39
     openPR: 1
     closedIssue: 44
-    openIssue: 0
-    commit: 35
+    openIssue: 1
+    commit: 41
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 10
-    mergedPR: 60
+    mergedPR: 65
     openPR: 1
-    closedIssue: 88
-    openIssue: 0
-    commit: 59
+    closedIssue: 86
+    openIssue: 1
+    commit: 65
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 36
-    mergedPR: 181
+    mergedPR: 187
     openPR: 1
-    closedIssue: 307
-    openIssue: 0
-    commit: 192
+    closedIssue: 305
+    openIssue: 1
+    commit: 198
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 73
-    mergedPR: 567
+    mergedPR: 573
     openPR: 1
     closedIssue: 919
-    openIssue: 0
-    commit: 600
+    openIssue: 1
+    commit: 606
 total:
   release: 73
-  mergedPR: 568
+  mergedPR: 574
   openPR: 1
   closedIssue: 919
-  openIssue: 0
-  commit: 600
+  openIssue: 1
+  commit: 606
 ---
 path: /home/runner/.x-repo/github.com/microsoft/playwright-mcp
-collectedAt: 2026-10-30T06:19:13Z
+collectedAt: 2026-10-31T06:06:34Z
 loc:
   Json:
-    code: 1377
+    code: 1378
     comments: 0
     blanks: 0
     files: 3
   TypeScript:
-    code: 595
-    comments: 304
-    blanks: 118
+    code: 597
+    comments: 315
+    blanks: 120
     files: 10
   JavaScript:
     code: 240
@@ -115,13 +115,13 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 1106
-    blanks: 409
+    comments: 1133
+    blanks: 417
     files: 5
 total:
-  code: 2565
-  comments: 1701
-  blanks: 633
+  code: 2576
+  comments: 1750
+  blanks: 645
   files: 25
 ---
 
