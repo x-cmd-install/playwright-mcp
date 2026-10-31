@@ -14,12 +14,12 @@ x install playwright-mcp
 
 ## Code insight
 
-Total: **2,387** lines of code across **20** files in the top 5 languages.
+Total: **2,390** lines of code across **20** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 1,377 | 0 | 0 | 3 |
-| TypeScript | 595 | 304 | 118 | 10 |
+| Json | 1,378 | 0 | 0 | 3 |
+| TypeScript | 597 | 315 | 120 | 10 |
 | JavaScript | 240 | 82 | 31 | 4 |
 | Sh | 138 | 19 | 21 | 2 |
 | Dockerfile | 37 | 27 | 16 | 1 |
@@ -33,26 +33,26 @@ Total: **2,387** lines of code across **20** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.83` (2026-09-28)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-31
 
 ## Popularity
 
-- **Stars**: 38,834 · **Forks**: 3,345 · **Open issues**: 919 · **Contributors**: 65
+- **Stars**: 38,881 · **Forks**: 3,347 · **Open issues**: 920 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 568 · **Open PRs**: 1 · **Closed issues**: 919 · **Open issues**: 0 · **Commits**: 600
+- **Releases**: 73 · **Merged PRs**: 574 · **Open PRs**: 1 · **Closed issues**: 919 · **Open issues**: 1 · **Commits**: 606
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 5 | 1 | 17 | 0 | 5 |
-| last60d | 2026-08-31 | 4 | 22 | 1 | 38 | 0 | 22 |
-| 90d | 2026-08-01 | 5 | 33 | 1 | 44 | 0 | 35 |
-| last180d | 2026-05-03 | 10 | 60 | 1 | 88 | 0 | 59 |
-| 360d | 2025-11-04 | 36 | 181 | 1 | 307 | 0 | 192 |
-| last720d | 2024-11-09 | 73 | 567 | 1 | 919 | 0 | 600 |
+| 30d | 2026-10-01 | 0 | 11 | 1 | 16 | 1 | 11 |
+| last60d | 2026-09-01 | 4 | 28 | 1 | 37 | 1 | 28 |
+| 90d | 2026-08-02 | 5 | 39 | 1 | 44 | 1 | 41 |
+| last180d | 2026-05-04 | 10 | 65 | 1 | 86 | 1 | 65 |
+| 360d | 2025-11-05 | 36 | 187 | 1 | 305 | 1 | 198 |
+| last720d | 2024-11-10 | 73 | 573 | 1 | 919 | 1 | 606 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for playwright-mcp lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:19:21Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:06:40Z._
