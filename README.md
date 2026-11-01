@@ -32,27 +32,27 @@ Total: **2,390** lines of code across **20** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.0.83` (2026-09-28)
+- **Latest**: `v0.0.84` (2026-10-31)
 - **Last commit**: 2026-10-31
 
 ## Popularity
 
-- **Stars**: 38,881 · **Forks**: 3,347 · **Open issues**: 920 · **Contributors**: 65
+- **Stars**: 38,922 · **Forks**: 3,357 · **Open issues**: 920 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 574 · **Open PRs**: 1 · **Closed issues**: 919 · **Open issues**: 1 · **Commits**: 606
+- **Releases**: 74 · **Merged PRs**: 575 · **Open PRs**: 0 · **Closed issues**: 919 · **Open issues**: 1 · **Commits**: 607
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 11 | 1 | 16 | 1 | 11 |
-| last60d | 2026-09-01 | 4 | 28 | 1 | 37 | 1 | 28 |
-| 90d | 2026-08-02 | 5 | 39 | 1 | 44 | 1 | 41 |
-| last180d | 2026-05-04 | 10 | 65 | 1 | 86 | 1 | 65 |
-| 360d | 2025-11-05 | 36 | 187 | 1 | 305 | 1 | 198 |
-| last720d | 2024-11-10 | 73 | 573 | 1 | 919 | 1 | 606 |
+| 30d | 2026-10-02 | 1 | 12 | 0 | 16 | 1 | 12 |
+| last60d | 2026-09-02 | 4 | 29 | 0 | 36 | 1 | 29 |
+| 90d | 2026-08-03 | 6 | 39 | 0 | 44 | 1 | 42 |
+| last180d | 2026-05-05 | 11 | 65 | 0 | 86 | 1 | 66 |
+| 360d | 2025-11-06 | 37 | 188 | 0 | 304 | 1 | 199 |
+| last720d | 2024-11-11 | 74 | 574 | 0 | 919 | 1 | 607 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for playwright-mcp lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:06:40Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:29:20Z._
