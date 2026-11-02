@@ -33,35 +33,35 @@ Total: **2,390** lines of code across **20** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.84` (2026-10-31)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-01
 
 ## Popularity
 
-- **Stars**: 38,922 · **Forks**: 3,357 · **Open issues**: 920 · **Contributors**: 65
+- **Stars**: 38,961 · **Forks**: 3,361 · **Open issues**: 921 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 575 · **Open PRs**: 0 · **Closed issues**: 919 · **Open issues**: 1 · **Commits**: 607
+- **Releases**: 74 · **Merged PRs**: 576 · **Open PRs**: 0 · **Closed issues**: 919 · **Open issues**: 2 · **Commits**: 608
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 12 | 0 | 16 | 1 | 12 |
-| last60d | 2026-09-02 | 4 | 29 | 0 | 36 | 1 | 29 |
-| 90d | 2026-08-03 | 6 | 39 | 0 | 44 | 1 | 42 |
-| last180d | 2026-05-05 | 11 | 65 | 0 | 86 | 1 | 66 |
-| 360d | 2025-11-06 | 37 | 188 | 0 | 304 | 1 | 199 |
-| last720d | 2024-11-11 | 74 | 574 | 0 | 919 | 1 | 607 |
+| 30d | 2026-10-03 | 1 | 13 | 0 | 15 | 2 | 10 |
+| last60d | 2026-09-03 | 4 | 29 | 0 | 36 | 2 | 29 |
+| 90d | 2026-08-04 | 6 | 39 | 0 | 44 | 2 | 36 |
+| last180d | 2026-05-06 | 11 | 62 | 0 | 86 | 2 | 58 |
+| 360d | 2025-11-07 | 37 | 188 | 0 | 303 | 2 | 199 |
+| last720d | 2024-11-12 | 74 | 575 | 0 | 919 | 2 | 608 |
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/playwright-mcp). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/playwright-mcp). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.0.83` | ✅ latest |
-| Nix unstable | `0.0.83` | ✅ latest |
+| Homebrew | `0.0.84` | ✅ latest |
+| Nix unstable | `0.0.83` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for playwright-mcp lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:29:20Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:32:38Z._
