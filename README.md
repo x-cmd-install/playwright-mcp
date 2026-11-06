@@ -33,26 +33,26 @@ Total: **2,390** lines of code across **20** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.84` (2026-10-31)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 
 ## Popularity
 
-- **Stars**: 39,192 · **Forks**: 3,382 · **Open issues**: 925 · **Contributors**: 65
+- **Stars**: 39,248 · **Forks**: 3,389 · **Open issues**: 940 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 579 · **Open PRs**: 0 · **Closed issues**: 923 · **Open issues**: 2 · **Commits**: 611
+- **Releases**: 74 · **Merged PRs**: 580 · **Open PRs**: 0 · **Closed issues**: 923 · **Open issues**: 17 · **Commits**: 612
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 16 | 0 | 19 | 2 | 13 |
-| last60d | 2026-09-06 | 4 | 32 | 0 | 40 | 2 | 32 |
-| 90d | 2026-08-07 | 5 | 39 | 0 | 47 | 2 | 39 |
-| last180d | 2026-05-09 | 9 | 60 | 0 | 86 | 2 | 61 |
-| 360d | 2025-11-10 | 36 | 191 | 0 | 305 | 2 | 202 |
-| last720d | 2024-11-15 | 74 | 578 | 0 | 923 | 2 | 611 |
+| 30d | 2026-10-07 | 1 | 16 | 0 | 19 | 17 | 14 |
+| last60d | 2026-09-07 | 4 | 33 | 0 | 40 | 17 | 33 |
+| 90d | 2026-08-08 | 5 | 40 | 0 | 47 | 17 | 40 |
+| last180d | 2026-05-10 | 9 | 61 | 0 | 86 | 17 | 62 |
+| 360d | 2025-11-11 | 36 | 192 | 0 | 305 | 17 | 203 |
+| last720d | 2024-11-16 | 74 | 579 | 0 | 923 | 17 | 612 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for playwright-mcp lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:16:16Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:03:13Z._
