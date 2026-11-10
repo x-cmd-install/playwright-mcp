@@ -2,8 +2,8 @@
   srcname: playwright-mcp
   binname: playwright-mcp
   visiblename: playwright-mcp
-  version: 0.0.84
-  origversion: 0.0.84-1
+  version: 0.0.85
+  origversion: 0.0.85-1
   status: newest
   summary: MCP server that provides browser automation capabilities using Playwright
   maintainers:
@@ -15,7 +15,7 @@
   visiblename: playwright-mcp
   version: 0.0.84
   origversion: null
-  status: newest
+  status: outdated
   summary: MCP server for Playwright
 - repo: nix_stable_25_11
   srcname: playwright-mcp
