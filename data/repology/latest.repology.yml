@@ -13,9 +13,9 @@
 - repo: homebrew
   srcname: playwright-mcp
   visiblename: playwright-mcp
-  version: 0.0.84
+  version: 0.0.85
   origversion: null
-  status: outdated
+  status: newest
   summary: MCP server for Playwright
 - repo: nix_stable_25_11
   srcname: playwright-mcp
