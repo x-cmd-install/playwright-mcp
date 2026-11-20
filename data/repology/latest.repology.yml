@@ -1,22 +1,22 @@
+- repo: homebrew
+  srcname: playwright-mcp
+  visiblename: playwright-mcp
+  version: 0.0.86
+  origversion: null
+  status: newest
+  summary: MCP server for Playwright
 - repo: aur
   srcname: playwright-mcp
   binname: playwright-mcp
   visiblename: playwright-mcp
   version: 0.0.85
   origversion: 0.0.85-1
-  status: newest
+  status: outdated
   summary: MCP server that provides browser automation capabilities using Playwright
   maintainers:
     - lapsus@aur
   licenses:
     - Apache-2.0
-- repo: homebrew
-  srcname: playwright-mcp
-  visiblename: playwright-mcp
-  version: 0.0.85
-  origversion: null
-  status: newest
-  summary: MCP server for Playwright
 - repo: nix_stable_25_11
   srcname: playwright-mcp
   visiblename: playwright-mcp
