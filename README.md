@@ -37,31 +37,22 @@ Total: **2,466** lines of code across **20** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 40,084 · **Forks**: 3,488 · **Open issues**: 948 · **Contributors**: 66
+- **Stars**: 40,124 · **Forks**: 3,496 · **Open issues**: 947 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 605 · **Open PRs**: 0 · **Closed issues**: 948 · **Open issues**: 0 · **Commits**: 637
+- **Releases**: 76 · **Merged PRs**: 605 · **Open PRs**: 0 · **Closed issues**: 946 · **Open issues**: 1 · **Commits**: 637
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 37 | 0 | 32 | 0 | 37 |
-| last60d | 2026-09-25 | 4 | 47 | 0 | 49 | 0 | 42 |
-| 90d | 2026-08-26 | 7 | 63 | 0 | 67 | 0 | 62 |
-| last180d | 2026-05-28 | 11 | 85 | 0 | 98 | 0 | 85 |
-| 360d | 2025-11-29 | 36 | 210 | 0 | 303 | 0 | 220 |
-| last720d | 2024-12-04 | 76 | 604 | 0 | 948 | 0 | 637 |
-
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/playwright-mcp). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.0.86` | ✅ latest |
-| Nix unstable | `0.0.83` | ⚠️ outdated |
+| 30d | 2026-10-26 | 3 | 37 | 0 | 32 | 1 | 37 |
+| last60d | 2026-09-26 | 4 | 47 | 0 | 49 | 1 | 42 |
+| 90d | 2026-08-27 | 7 | 61 | 0 | 67 | 1 | 62 |
+| last180d | 2026-05-29 | 11 | 85 | 0 | 96 | 1 | 85 |
+| 360d | 2025-11-30 | 36 | 209 | 0 | 300 | 1 | 220 |
+| last720d | 2024-12-05 | 76 | 604 | 0 | 946 | 1 | 637 |
 
 ## Improve this data
 
@@ -72,4 +63,4 @@ Install metadata for playwright-mcp lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:44:20Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:44:43Z._
